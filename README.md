@@ -1,7 +1,5 @@
 # 超能姜饼人
 
-[Demo](http://farm.yiluwan.org/super-gingerbread/index.php?debug=true)
-
 ![QR code](https://raw.githubusercontent.com/yumaoywj/super-ginger/master/src/img/qr.png)
 
 ![QR code](https://github.com/yumaoywj/super-ginger/blob/master/screenshot/ginger-1.png)
